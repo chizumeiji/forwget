@@ -15,6 +15,7 @@ app = Client(
     api_id=api_id, api_hash=api_hash,
     bot_token=bot_token
 )
+#83zA&#aVqdtc$6$Tr430
 
 from pyrogram import Client
 from pyrogram.types import (InlineQueryResultArticle,InlineQueryResultCachedSticker, InputTextMessageContent,
